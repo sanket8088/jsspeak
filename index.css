@@ -1,0 +1,18 @@
+#saySome{
+    display: flex;
+    justify-content: center;
+}
+
+
+body{
+        background: linear-gradient(45deg,#FFD4B3 ,#FF005C );
+    height: 100vh;
+}
+
+#speak-me{
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
